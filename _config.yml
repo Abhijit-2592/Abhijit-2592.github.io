@@ -16,13 +16,13 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about.md'}
-  - {name: 'Contact', link: '/contact.md'}
+  - {name: 'About', link: './about.md'}
+  - {name: 'Contact', link: './contact.md'}
 
 tagline: >
 
 
-hero_img: /assests/img/posts/neural_network.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/neural_network.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: balaabhijit5@gmail.com # email for form submission
 
