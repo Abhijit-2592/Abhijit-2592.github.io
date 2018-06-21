@@ -190,14 +190,17 @@ gulp.task('img', function() {
         rename: { suffix: '_md' }
       }, {
         width: 1999,
-        rename: { suffix: '_lg' }
+        rename: { suffix: '_lg' },
+        withoutEnlargement: true
       }, {
         // max-width hero
         width: 1920,
+        withoutEnlargement: true
       }],
     }, {
       quality: 70,
       progressive: true,
+      errorOnEnlargement: false,
       withMetadata: false,
     }))
     .pipe(imagemin())

@@ -3,7 +3,7 @@ title: My Blog # your site title
 author: Abhijit-2592 # You :P
 description: > # Meta description of Homepage
   Deep Learning Blog
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Abhijit-2592.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -16,8 +16,8 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: './about.md'}
-  - {name: 'Contact', link: './contact.md'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
 
 tagline: >
 
