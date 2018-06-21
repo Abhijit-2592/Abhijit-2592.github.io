@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: My Blog # your site title
-author: Abhijit-2592 # You :P
+title: Abhijit's blog # your site title
+author: Abhijit Balaji # You :P
 description: > # Meta description of Homepage
-  Deep Learning Blog
+  Where I write about my adventures with Deep Learning!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Abhijit-2592.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abhijit-2592.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -20,7 +20,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-
+  My adventures with Deep Learning!
 
 hero_img: posts/neural_network.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
