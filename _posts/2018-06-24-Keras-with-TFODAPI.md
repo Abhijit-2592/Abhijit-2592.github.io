@@ -4,6 +4,7 @@ title: Integrating Keras with Tensorflow Object Detection API # title of your po
 featured-img: keras_tfodapi
 date: 2018-06-24
 published: true
+comments: true
 ---
 
 ### Introduction:

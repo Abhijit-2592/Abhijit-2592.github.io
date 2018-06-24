@@ -4,6 +4,7 @@ title: Building a personal deep learning environment with GPU acceleration for c
 featured-img: docker_logo #optional - if you want you can include hero image
 date: 2018-06-22
 published: true
+comments: true
 ---
 ## Introduction:
 In my first post, I would like to share my personal build environment which I use for my computer vision projects. But, why [Docker](https://www.docker.com/)? That too on a PC? Well, in short: It is easy to manage :P. Lets say you are building a development environment on your host machine and you install a new pacakge and suddenly your OS is wrecked! well... good luck with it. To solve this, docker provides a **light weight**, **isolated** and **reproducable**  environment. If something goes wrong remove the image and build again with a single command VOILA! Ok No more small talks, lets dive into building the environment. We will build the environment in **Ubuntu-16.04**
