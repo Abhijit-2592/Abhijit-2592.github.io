@@ -7,7 +7,7 @@ Hello there! I am Abhijit Balaji. I am an Engineer who is passionate about AI an
 
 ### My details:
 
-* [Resume](https://drive.google.com/file/d/1xv8PWkZrppuedzXepohGMxmHMT3-04Qa/view?usp=sharing)
+* [Resume](https://drive.google.com/file/d/1tBq59k1LenNsV5cX823C6PYz5MBR6szs/view?usp=sharing)
 * [Github](https://github.com/Abhijit-2592)
 * [LinkedIn](https://www.linkedin.com/in/abhijit-balaji/)
 
