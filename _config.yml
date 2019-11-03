@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-title: Learning to Learn # your site title
+title: Abhijit Balaji # your site title
 author: Abhijit Balaji # You :P
 description: > # Meta description of Homepage
-  adventures with Deep Learning!
+  learning to learn!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abhijit-2592.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,16 +18,17 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'CV', link: 'https://drive.google.com/file/d/1tBq59k1LenNsV5cX823C6PYz5MBR6szs/view'}
 
 tagline: >
-  Let the Deep Learning adventures begin!
+    Learning To Learn!
 
-hero_img: posts/neural_network.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/deep_learning.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: balaabhijit5@gmail.com # email for form submission
+email: abhijitbalaji1995@gmail.com # email for form submission
 
-#twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  Abhijit-2592 # replace with your_github_username or comment to remove link from footer
+twitter_username: balaji_abhijit
+github_username: Abhijit-2592 # replace with your_github_username or comment to remove link from footer
 #instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
