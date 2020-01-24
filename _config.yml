@@ -18,7 +18,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'CV', link: 'https://drive.google.com/file/d/1aY11-XI37iscSPFjsDh2d_RKuSTWPAZ1/view?usp=sharing'}
+  - {name: 'CV', link: 'https://drive.google.com/file/d/1a2C-lCFUj1KCkfk_h6Dq4jSS_LuL_yi4/view?usp=sharing'}
 
 tagline: >
     Learning To Learn!
